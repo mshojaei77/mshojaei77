@@ -4,7 +4,7 @@
 
 
 <a href="https://"><img src="https://webimages.mongodb.com/_com_assets/cms/lmasvfr5imbft2sbf-LangChain_Workmark_Color%201.svg?auto=format%252Ccompress" width="150" height="150"></a>
-<a href="https://"><img src="https://webimages.mongodb.com/_com_assets/cms/lmasubk61r6x3l65f-llamaIndex_logo%201.svg?auto=format%252Ccompress" width="100" height="100"></a>
-<a href="https://"><img src="https://webimages.mongodb.com/_com_assets/cms/lmasxfhbuj4hnk4sy-hf-logo-with-title%201.svg?auto=format%252Ccompress" width="120" height="120"></a>
-<a href="https://"><img src="https://webimages.mongodb.com/_com_assets/cms/lmeurcgh74wf4msxt-OpenAI-Logo.svg?auto=format%252Ccompress" width="200" height="200"></a>
+<a href="https://"><img src="https://webimages.mongodb.com/_com_assets/cms/lmasubk61r6x3l65f-llamaIndex_logo%201.svg?auto=format%252Ccompress" width="150" height="150"></a>
+<a href="https://"><img src="https://webimages.mongodb.com/_com_assets/cms/lmasxfhbuj4hnk4sy-hf-logo-with-title%201.svg?auto=format%252Ccompress" width="150" height="150"></a>
+<a href="https://"><img src="https://webimages.mongodb.com/_com_assets/cms/lmeurcgh74wf4msxt-OpenAI-Logo.svg?auto=format%252Ccompress" width="150" height="150"></a>
 
