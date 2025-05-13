@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/1tuooPJnx3kKqBmNEW/giphy.gif" alt="AI News Animation" width="480"/>
-</p>
-
 <h2 align="center">Hello there, I'm Mohammad 👋</h2>
 <h3 align="center">AI Engineer | LLM Systems & NLP Enthusiast</h3>
 <p align="center">
