@@ -1,7 +1,7 @@
 <h2 align="center">Hello there, I'm Mohammad 👋</h2>
 <h3 align="center">AI Engineer | LLM Systems & NLP Enthusiast</h3>
 <p align="center">
-  <em>Cooking up cool AI solutions with a sprinkle of LLM magic and a dash of NLP.</em>
+  <em>Transforming AI research into production systems that drive business value.</em>
 </p>
 
 <p align="center">
