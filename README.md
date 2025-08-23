@@ -18,8 +18,6 @@ Hey! I'm Mohammad Shojaei, an **AI Engineer** who genuinely gets a buzz from bui
 *   🚀 **Currently:** I'm all about pushing the boundaries of LLMs for advanced research, building AI-powered study buddies, and making specialized models even brainier.
 *   🤓 **Always Learning:** You'll find me tinkering with the latest LLM tricks, figuring out MLOps for smooth sailing, and exploring how AI can see and understand the world (hello, multimodal!).
 *   💬 **Let's Chat:** Got questions about RAG, fine-tuning, or why custom embeddings are the bee's knees? Curious about my work with Persian NLP? Hit me up!
-*   ⚡ **Fun Fact:**  I'm developing [OllamaDesktop](https://github.com/mshojaei77/ollama-desktop), a fully open-source app making powerful LLMs, vision, RAG, and Agents super easy to use for everyone. Eager developers needed – come contribute and help shape it!
-
 
 ### 🛠️ My Go-To Tech Stack
 
