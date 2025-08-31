@@ -13,11 +13,15 @@
   <a href="https://x.com/realshojaei"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
-I am Mohammad Shojaei, a dedicated Machine Learning Engineer with a profound passion for Large Language Models (LLMs) and Natural Language Processing (NLP). My journey in AI is driven by a commitment to bridging the gap between innovative research and practical, scalable solutions that deliver tangible impact. Whether it's optimizing inference for low-latency applications or fine-tuning models for multilingual contexts—particularly in Persian—I thrive on turning complex challenges into reliable systems that enhance efficiency and drive business outcomes. Recently, I've been deeply engaged in evaluating emerging models for high-quality Persian support and analyzing benchmarks for open-source LLMs. This hands-on exploration keeps me at the forefront of AI advancements, ensuring my work remains both cutting-edge and grounded in real-world applicability.
+I’m Mohammad Shojaei, a Machine Learning Engineer with a particular focus on Large Language Models and Natural Language Processing. My professional interests revolve around translating cutting-edge research into robust, real-world systems. I spend considerable time refining training pipelines, optimizing inference for low latency, and fine-tuning models to effectively handle multiple languages. The field is dynamic and often unpredictable, but my central objective remains consistent: _transforming theoretical concepts into production-grade tools that provide tangible value_.
 
-*   🚀 **Currently:** Immersed in advancing LLM capabilities through agentic systems, exploring agentic conversational audio models, and contributing to open-source initiatives that democratize AI for diverse languages and use cases.
-*   🤓 **Always Learning:** Delving into the intricacies of system design for AI agents, the nuances of tool-calling and structured output benchmarks, and the latest in efficient post-training techniques to push the boundaries of what's possible with models under 10B parameters.
-*   💬 **Let's Connect:** Whether discussing the potential of Persian NLP, sharing insights on why embedding dimensions favor powers of two, or collaborating on production-grade deployments, I welcome thoughtful conversations that foster innovation and community growth.
+Currently, my primary work involves evaluating the latest open-source LLMs, with an emphasis on those touting comprehensive support for Persian. Keeping pace with the influx of new research is essential to ensuring my systems retain a competitive advantage.
+
+- My projects include architecting agentic systems with advanced reasoning capabilities, developing conversational audio agents resilient to unexpected queries, and contributing to open-source initiatives aimed at advancing AI accessibility for underrepresented languages.
+
+- In terms of professional development, I am consistently refining my understanding of AI agent design and evaluation, delving into technical aspects such as tool-calling and structured outputs, and exploring recent post-training methods to enhance the performance of models under 10B parameters.
+
+- If you wish to discuss advances in NLP, debate the rationale behind embedding dimensions, or exchange insights on deploying models to production environments, I welcome the opportunity for collaboration and knowledge sharing.
 
 ### 🛠️ My Go-To Tech Stack
 
