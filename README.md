@@ -1,45 +1,31 @@
-<h1 align="center">Mohammad Shojaei</h1>
+<h2 align="center">Mohammad Shojaei</h2>
 
 <p align="center">
-  <strong>AI Engineer building production LLM agents, retrieval systems, evaluation pipelines, and voice AI.</strong>
+  <strong>AI Engineer building production LLM agents, retrieval systems, evaluation pipelines, and multilingual AI.</strong>
 </p>
 
 <p align="center">
-  <a href="https://mshojaei77.github.io">Portfolio</a> ·
-  <a href="https://mshojaei77.github.io/book/">Book</a> ·
-  <a href="https://huggingface.co/mshojaei77">Hugging Face</a> ·
-  <a href="https://www.linkedin.com/in/mshojaei77">LinkedIn</a> ·
-  <a href="mailto:shojaei.dev@gmail.com">Email</a>
+  <a href="mailto:shojaei.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mshojaei77"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/mshojaei77"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <a href="https://mshojaei77.github.io"><img src="https://img.shields.io/badge/Website-181717?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
 </p>
 
----
+I build AI systems that need to work outside controlled demos: tool-using agents, voice workflows, source-grounded research systems, model evaluations, and low-latency LLM services.
 
-I work on AI systems that must behave reliably outside controlled demos:  
-**tool-using agents, grounded retrieval, structured outputs, model evaluation, low-latency serving, monitoring, and failure recovery.**
+Professionally, I have worked across **real estate, financial research, healthcare, and education**:
 
-My production work spans **real estate, financial research, healthcare, education, and multilingual AI**.
+- Built a Russian real-estate voice agent with **sub-250 ms p95 latency** while reducing infrastructure cost by **~35%**.
+- Automated financial research workflows, reducing analyst effort by **~60%** and saving **4+ hours per report**.
+- Developed EEG analysis and clinical-support tools that reduced query-resolution time by **~50%**.
 
-### Recent impact
+Right now, I’m working on:
 
-- Reached **sub-250 ms p95 latency** and reduced infrastructure cost by **~35%** for a real-estate voice-agent platform.
-- Reduced financial-research effort by **~60%**, saving **4+ hours per report**.
-- Cut EEG review-query time by **~50%** and improved anomaly-detection support by **~18%**.
+- natural, conversational **Persian TTS**;
+- multilingual **OCR and VLM evaluation**;
+- evidence-driven research agents with citations and validation gates;
+- post-training and evaluating small open models.
 
-### Currently working on
+I also write **[LLM Engineering in Action](https://mshojaei77.github.io/book/)** and the **[Building Production AI](https://www.linkedin.com/newsletters/building-production-ai-7479436427496243200)** newsletter.
 
-- Natural, conversational **Persian TTS**
-- Multilingual **OCR/VLM evaluation**
-- Evidence-driven **deep-research agents**
-- Fine-tuning and evaluating small **Qwen/Gemma-family models**
-
-### How I approach AI engineering
-
-```text
-Evals over vibes.
-Evidence over confident outputs.
-Deterministic control around probabilistic models.
-Measure quality, latency, cost, and failures.
-````
-
-I also write **[LLM Engineering in Action](https://mshojaei77.github.io/book/)**
-and publish the **[Building Production AI](https://www.linkedin.com/newsletters/building-production-ai-7479436427496243200)** newsletter.
+> Evals over vibes. Evidence over confident output. Measure latency, cost, quality, and failure modes.
