@@ -23,38 +23,6 @@ Currently, my primary work involves evaluating the latest open-source LLMs, with
 
 - If you wish to discuss advances in NLP, debate the rationale behind embedding dimensions, or exchange insights on deploying models to production environments, I welcome the opportunity for collaboration and knowledge sharing.
 
-### 🛠️ My Go-To Tech Stack
-
-**Languages & Core Libraries:**
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-</p>
-
-**LLM & NLP Ecosystem:**
-<p align="left">
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="Langchain/LangGraph" width="40" height="40"/></a>
-  <a href="https://huggingface.co/docs/transformers/index" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="transformers" width="40" height="40"/></a>
-  <a href="https://ollama.com/" target="_blank" rel="noreferrer"><img src="https://ollama.com/public/ollama.png" alt="ollama" width="40" height="40"/></a>
-  <!-- Add VLLM, Milvus, FAISS if you find good icons and want to include them -->
-</p>
-
-**Frameworks & Tools:**
-<p align="left">
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="40" height="40"/></a>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mshojaei77&show_icons=true&theme=radical&locale=en&count_private=true" alt="mshojaei77's GitHub Stats" width="420"/>
-</p>
-
 <p align="center">
   <em>Thanks for dropping by! Let's connect and whip up something awesome.</em>
 </p>
