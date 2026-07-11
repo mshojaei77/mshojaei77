@@ -1,47 +1,45 @@
-<h2 align="center">Hi, I'm Mohammad 👋</h2>
-
-<h3 align="center">AI Engineer · Production LLM Agents · RAG · Evaluation · Fine-Tuning</h3>
+<h1 align="center">Mohammad Shojaei</h1>
 
 <p align="center">
-  <em>I build AI systems that survive outside notebooks: agents, retrieval pipelines, model evaluations, and production LLM backends.</em>
+  <strong>AI Engineer building production LLM agents, retrieval systems, evaluation pipelines, and voice AI.</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:shojaei.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mshojaei77"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/mshojaei77"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://huggingface.co/mshojaei77"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
-  <a href="https://mshojaei77.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-  <a href="https://x.com/realshojaei"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://mshojaei77.github.io">Portfolio</a> ·
+  <a href="https://mshojaei77.github.io/book/">Book</a> ·
+  <a href="https://huggingface.co/mshojaei77">Hugging Face</a> ·
+  <a href="https://www.linkedin.com/in/mshojaei77">LinkedIn</a> ·
+  <a href="mailto:shojaei.dev@gmail.com">Email</a>
 </p>
 
 ---
 
-I’m an **AI Engineer** focused on production LLM systems: agentic workflows, RAG pipelines, evaluation loops, OpenAI-compatible APIs, and small-model fine-tuning.
+I work on AI systems that must behave reliably outside controlled demos:  
+**tool-using agents, grounded retrieval, structured outputs, model evaluation, low-latency serving, monitoring, and failure recovery.**
 
-Most of my work lives in the messy middle between research and production: tool calls, routing, memory, citations, latency, cost, structured outputs, failure recovery, and model behavior that needs to be measured instead of trusted blindly.
+My production work spans **real estate, financial research, healthcare, education, and multilingual AI**.
 
-### What I build
+### Recent impact
 
-- **Production LLM agents** with LangGraph, tool calling, routing, memory, validation, monitoring, and fallback behavior.
-- **RAG and research systems** with source-grounded answers, reranking, citations, retrieval evaluation, and evidence tracking.
-- **Voice and workflow agents** for real-world domains like real estate, finance, education, and internal business automation.
-- **Small-model training/evaluation** using Qwen, Gemma, LoRA/QLoRA, Hugging Face, benchmark suites, and multilingual datasets.
-- **LLMOps backends** with FastAPI, streaming responses, vLLM, structured logs, tracing, cost tracking, and deployment runbooks.
+- Reached **sub-250 ms p95 latency** and reduced infrastructure cost by **~35%** for a real-estate voice-agent platform.
+- Reduced financial-research effort by **~60%**, saving **4+ hours per report**.
+- Cut EEG review-query time by **~50%** and improved anomaly-detection support by **~18%**.
 
-### Current focus
+### Currently working on
 
-I’m currently working on production-grade AI systems that are fast, debuggable, and honest about their limits:
+- Natural, conversational **Persian TTS**
+- Multilingual **OCR/VLM evaluation**
+- Evidence-driven **deep-research agents**
+- Fine-tuning and evaluating small **Qwen/Gemma-family models**
 
-- agents that keep state instead of drifting,
-- RAG systems that cite evidence instead of guessing,
-- small models that are evaluated before being deployed,
-- and AI workflows that expose latency, cost, quality, and failure signals.
+### How I approach AI engineering
 
-### Open-source interests
+```text
+Evals over vibes.
+Evidence over confident outputs.
+Deterministic control around probabilistic models.
+Measure quality, latency, cost, and failures.
+````
 
-I publish projects around **MCP**, **RAG**, **Persian NLP**, **LLM evaluation**, **OCR/VLM extraction**, **local AI apps**, and practical agent engineering.
-
-<p align="center">
-  <em>Always happy to talk about agents, RAG, evals, small models, Persian NLP, or why production AI is mostly debugging weird edge cases.</em>
-</p>
+I also write **[LLM Engineering in Action](https://mshojaei77.github.io/book/)**
+and publish the **[Building Production AI](https://www.linkedin.com/newsletters/building-production-ai-7479436427496243200)** newsletter.
